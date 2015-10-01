@@ -8,6 +8,7 @@ import (
 	"net/http"
 )
 
+var T Templates
 
 type Templates struct {
 	buffer *bpool.BufferPool
