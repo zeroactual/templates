@@ -2,7 +2,7 @@ package templates
 
 import (
 	"fmt"
-	"text/template"
+	"html/template"
 	"path/filepath"
 	"github.com/oxtoacart/bpool"
 	"net/http"
